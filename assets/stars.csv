@@ -1,0 +1,918 @@
+,name_with_suffix,in_cos_index,cons_abbr,name_cn,magnitude,note,top20,commonly_used,name
+0,Acamar *,q,Eri,天园六,2.91,-,no,yes,Acamar
+1,Achernar **,a,Eri,水委一,0.46,-,yes,no,Achernar
+2,Achird,h,Cas,王良三,3.6,d,no,no,Achird
+3,Acrab,b,Sco,房宿四,2.55,d,no,no,Acrab
+4,Acrux **,a,Cru,十字架二,0.79,d,yes,no,Acrux
+5,Acubens *,a,Cnc,柳宿增三,4.3,-,no,yes,Acubens
+6,Adara,e,CMa,弧矢七,1.5,-,no,no,Adara
+7,Adhafera *,x,Leo,轩辕十一,3.6,-,no,yes,Adhafera
+8,Adhara *,e,CMa,弧矢七,1.5,-,no,yes,Adhara
+9,Adhil,n,And,奎宿七,4.2,-,no,no,Adhil
+10,Agena,b,Cen,马腹一,0.61,-,no,no,Agena
+11,Ain,e,Tau,毕宿一,3.6,-,no,no,Ain
+12,Ain al Rami,m1,Sgr,斗宿三,4.8,-,no,no,Ain al Rami
+13,Ak,a,UMa,天枢，北斗一,1.79,-,no,no,Ak
+14,Al Anchat al Nahr,t2,Eri,天苑九,4.8,-,no,no,Al Anchat al Nahr
+15,Al Anf,e,Peg,危宿三,2.39,d,no,no,Al Anf
+16,Al Anz,e,Aur,柱一（毕宿）,2.99,v,no,no,Al Anz
+17,Al Athfar,m,Lyr,织女增三,5.1,-,no,no,Al Athfar
+18,Al Atik,o,Per,卷舌增七,3.8,-,no,no,Al Atik
+19,Al Baldah,p,Sgr,建三,2.89,-,no,no,Al Baldah
+20,Al Bali,e,Aqr,女宿一,3.8,-,no,no,Al Bali
+21,Al Chiba,a,Crv,右辖,4,-,no,no,Al Chiba
+22,Al Dhanab,b,Gru,鹤二,2.1,-,no,no,Al Dhanab
+23,Al Dhanab,g,Gru,败臼一,3.01,-,no,no,Al Dhanab
+24,Al Dhiba,i,Dra,左枢，紫微左垣一,3.3,-,no,no,Al Dhiba
+25,Al Dhihi,i,Dra,左枢，紫微左垣一,3.3,-,no,no,Al Dhihi
+26,Al Dibah,x,Dra,上弼，紫微左垣四,3.2,-,no,no,Al Dibah
+27,Al Gieba,g,Leo,轩辕十二,1.9,d,no,no,Al Gieba
+28,Al Giedi,a,Cap,牛宿二,3.6,d,no,no,Al Giedi
+29,Al Hammam,x,Peg,雷电一,3.4,-,no,no,Al Hammam
+30,Al Kaff al Jidmah,g,Cet,天囷八,3.5,d,no,no,Al Kaff al Jidmah
+31,Al Kalb al Asad,a,Leo,轩辕十四,1.35,d,no,no,Al Kalb al Asad
+32,Al Kalb al Rai,r,Cep,刍贽一,5.5,-,no,no,Al Kalb al Rai
+33,Al Kaphrah,c,UMa,太阳守,3.7,-,no,no,Al Kaphrah
+34,Al Kirduh,x,Cep,天钩六,4.3,d,no,no,Al Kirduh
+35,Al Mankib,a,Ori,参宿四,0.5,v,no,no,Al Mankib
+36,Al Minliar al Asad,k,Leo,轩辕七,4.5,-,no,no,Al Minliar al Asad
+37,Al Minliar al Ghurab,a,Crv,右辖,4,-,no,no,Al Minliar al Ghurab
+38,Al Minliar al Shuja,s,Hya,柳宿二,4.4,-,no,no,Al Minliar al Shuja
+39,Al Mizar,b,And,奎宿九,2.06,-,no,no,Al Mizar
+40,Al Na'ir *,a,Gru,鹤一,1.74,-,no,yes,Al Na'ir
+41,Al Nair,a,Gru,鹤一,1.74,-,no,no,Al Nair
+42,Al Nasl,g,Sgr,箕宿一,2.99,-,no,no,Al Nasl
+43,Al Nath,g,Dra,天棓四,2.23,-,no,no,Al Nath
+44,Al Niyat,s,Sco,心宿一,2.89,-,no,no,Al Niyat
+45,Al Niyat,t,Sco,心宿三,2.82,-,no,no,Al Niyat
+46,Al Rakis,n,Dra,天棓二,5,d,no,no,Al Rakis
+47,Al Rescha,a,Psc,外屏七,4.3,d,no,no,Al Rescha
+48,Al Richa,a,Psc,外屏七,4.3,d,no,no,Al Richa
+49,Al Rijil,a,Cen,南门二,-0.27,d,no,no,Al Rijil
+50,Al Rischa,a,Psc,外屏七,4.3,d,no,no,Al Rischa
+51,Al Rukbah al Dajajah,w2,Cyg,天津增三十四,5.4,-,no,no,Al Rukbah al Dajajah
+52,Al Sanam al Nakah,b,Cas,王良一,2.27,-,no,no,Al Sanam al Nakah
+53,Al Sheratain,b,Ari,娄宿一,2.64,-,no,no,Al Sheratain
+54,Al Suhail al Muhlif,g,Vel,天社一,1.8,-,no,no,Al Suhail al Muhlif
+55,Al Suhail al Wazn,l,Vel,天记,2.21,-,no,no,Al Suhail al Wazn
+56,Al Tarf,b,Cnc,柳宿增十,3.5,-,no,no,Al Tarf
+57,Al Tinnin,a,Dra,右枢，紫微右垣一,3.7,-,no,no,Al Tinnin
+58,Aladfar,h,Lyr,辇道二,4.4,-,no,no,Aladfar
+59,Aladfar,m,Lyr,织女增三,5.1,-,no,no,Aladfar
+60,Alamak,g,And,天大将军一,2.26,d,no,no,Alamak
+61,Alanf,e,Peg,危宿三,2.39,d,no,no,Alanf
+62,Alanz,e,Aur,柱一（毕宿）,2.99,v,no,no,Alanz
+63,Alaraph,a,Vir,角宿一,0.98,-,no,no,Alaraph
+64,Alaraph,b,Vir,右执法，太微右垣一,3.6,-,no,no,Alaraph
+65,Alaraph,e,Vir,东次将，太微左垣四,2.83,-,no,no,Alaraph
+66,Alascha,l,Sco,尾宿八,1.63,-,no,no,Alascha
+67,Alasco,h,UMi,勾陈增九,5,-,no,no,Alasco
+68,Alathfar,m,Lyr,织女增三,5.1,-,no,no,Alathfar
+69,Albaldah,p,Sgr,建三,2.89,-,no,no,Albaldah
+70,Albali *,e,Aqr,女宿一,3.8,-,no,yes,Albali
+71,Albereo,b,Cyg,辇道增七,3.08,d,no,no,Albereo
+72,Albireo *,b,Cyg,辇道增七,3.08,d,no,yes,Albireo
+73,Albireor,b,Cyg,辇道增七,3.08,d,no,no,Albireor
+74,Alcaid,h,UMa,摇光，北斗七,1.86,-,no,no,Alcaid
+75,Alchiba *,a,Crv,右辖,4,-,no,yes,Alchiba
+76,Alchita,a,Crv,右辖,4,-,no,no,Alchita
+77,Alcor *,80,UMa,开阳增一,4,-,no,yes,Alcor
+78,Alcyone *,h,Tau,昴宿六,2.87,-,no,yes,Alcyone
+79,Alcyone,x,Tau,天关,3,-,no,no,Alcyone
+80,Aldebaran **,a,Tau,毕宿五,0.85,d,yes,no,Aldebaran
+81,Alderaimin,a,Cep,天钩五,2.44,-,no,no,Alderaimin
+82,Alderamin *,a,Cep,天钩五,2.44,-,no,yes,Alderamin
+83,Aldhafara,x,Leo,轩辕十一,3.6,-,no,no,Aldhafara
+84,Aldhafera,x,Leo,轩辕十一,3.6,-,no,no,Aldhafera
+85,Aldhibah,x,Dra,上弼，紫微左垣四,3.2,-,no,no,Aldhibah
+86,Aldhibain,h,Dra,少宰，紫微左垣三,2.74,-,no,no,Aldhibain
+87,Aldib,d,Dra,天厨一,3.07,-,no,no,Aldib
+88,Alfard,a,Hya,星宿一,1.98,-,no,no,Alfard
+89,Alfecca,a,CrA,鳖六,4.1,-,no,no,Alfecca
+90,Alfecca Meridiana,a,CrA,鳖六,4.1,-,no,no,Alfecca Meridiana
+91,Alfirk *,b,Cep,上卫增一（紫微左垣）,3.3,-,no,yes,Alfirk
+92,Alga,q,Ser,徐，天市左垣七,4.5,-,no,no,Alga
+93,Algebar,b,Ori,参宿七,0.12,d,no,no,Algebar
+94,Algedi *,a2,Cap,牛宿二,3.6,d,no,yes,Algedi
+95,Algedi Prima,a1,Cap,牛宿增六,4.2,-,no,no,Algedi Prima
+96,Algedi Secunda,a2,Cap,牛宿二,3.6,-,no,no,Algedi Secunda
+97,Algeiba,g,Leo,轩辕十二,1.9,d,no,no,Algeiba
+98,Algenib *,g,Peg,壁宿一,2.83,-,no,yes,Algenib
+99,Algenib,a,Per,天船三,1.79,-,no,no,Algenib
+100,Algenubi,e,Leo,轩辕九,2.98,-,no,no,Algenubi
+101,Algieba *,g,Leo,轩辕十二,1.9,d,no,yes,Algieba
+102,Algiedi,a,Cap,牛宿二,3.6,d,no,no,Algiedi
+103,Algjebbath,h,Ori,参宿增三,3.4,-,no,no,Algjebbath
+104,Algoers,d,Crv,轸宿三,2.95,d,no,no,Algoers
+105,Algol *,b,Per,大陵五,2.12,v,no,yes,Algol
+106,Algomeyla,b,CMi,南河二,2.9,-,no,no,Algomeyla
+107,Algomeysa,a,CMi,南河三,0.38,-,no,no,Algomeysa
+108,Algorab *,d,Crv,轸宿三,2.95,d,no,yes,Algorab
+109,Algoral,d,Crv,轸宿三,2.95,d,no,no,Algoral
+110,Algorel,d,Crv,轸宿三,2.95,d,no,no,Algorel
+111,Alhajoth,a,Aur,五车二,0.08,-,no,no,Alhajoth
+112,Alhena *,g,Gem,井宿三,1.93,-,no,yes,Alhena
+113,Aliath,e,UMa,玉衡，北斗五,1.77,-,no,no,Aliath
+114,Alifa,x,UMi,勾陈四,4.3,-,no,no,Alifa
+115,Alioth *,e,UMa,玉衡，北斗五,1.77,-,no,yes,Alioth
+116,Alkaffaljidhina,g,Cet,天囷八,3.5,d,no,no,Alkaffaljidhina
+117,Alkaid *,h,UMa,摇光，北斗七,1.86,-,no,yes,Alkaid
+118,Alkalurops *,m,Boo,七公六,4.5,-,no,yes,Alkalurops
+119,Alkaphrah,c,UMa,太阳守,3.7,-,no,no,Alkaphrah
+120,Alkaurops,m,Boo,七公六,4.5,-,no,no,Alkaurops
+121,Alkes *,a,Crt,翼宿一,4.2,-,no,yes,Alkes
+122,Alkhiba,a,Crv,右辖,4,-,no,no,Alkhiba
+123,Alkirdah,x,Cep,天钩六,4.3,d,no,no,Alkirdah
+124,Alkurhah,x,Cep,天钩六,4.3,d,no,no,Alkurhah
+125,Almaac,g,And,天大将军一,2.26,d,no,no,Almaac
+126,Almaach,g,And,天大将军一,2.26,d,no,no,Almaach
+127,Almaack,g,And,天大将军一,2.26,d,no,no,Almaack
+128,Almaak,g,And,天大将军一,2.26,d,no,no,Almaak
+129,Almaaz,e,Aur,柱一（毕宿）,2.99,v,no,no,Almaaz
+130,Almach *,g,And,天大将军一,2.26,d,no,yes,Almach
+131,Almak,g,And,天大将军一,2.26,d,no,no,Almak
+132,Almeisan,g,Gem,井宿三,1.93,-,no,no,Almeisan
+133,Almuredin,e,Vir,东次将，太微左垣四,2.83,-,no,no,Almuredin
+134,Alnair,a,Gru,鹤一,1.74,-,no,no,Alnair
+135,Alnasl *,g,Sgr,箕宿一,2.99,-,no,yes,Alnasl
+136,Alnasr,g,Sgr,箕宿一,2.99,-,no,no,Alnasr
+137,Alnath,a,Ari,娄宿三,2,-,no,no,Alnath
+138,Alnath,g,Dra,天棓四,2.23,-,no,no,Alnath
+139,Alnath,b,Tau,五车五,1.65,-,no,no,Alnath
+140,Alnihan,e,Ori,参宿二,1.7,-,no,no,Alnihan
+141,Alnilam *,e,Ori,参宿二,1.7,-,no,yes,Alnilam
+142,Alnitah,x,Ori,参宿一,1.76,-,no,no,Alnitah
+143,Alnitak *,x,Ori,参宿一,1.76,-,no,yes,Alnitak
+144,Alnitam,e,Ori,参宿二,1.7,-,no,no,Alnitam
+145,Alniyat,s,Sco,心宿一,2.89,-,no,no,Alniyat
+146,Alphaca,a,CrB,贯索四,2.23,-,no,no,Alphaca
+147,Alphacca,a,CrB,贯索四,2.23,-,no,no,Alphacca
+148,Alphard *,a,Hya,星宿一,1.98,-,no,yes,Alphard
+149,Alphart,a,Hya,星宿一,1.98,-,no,no,Alphart
+150,Alphecca *,a,CrB,贯索四,2.23,-,no,yes,Alphecca
+151,Alphekka,a,CrB,贯索四,2.23,-,no,no,Alphekka
+152,Alpherat,a,And,壁宿二,2.06,-,no,no,Alpherat
+153,Alpheratz *,a,And,壁宿二,2.06,-,no,yes,Alpheratz
+154,Alphirk,b,Cep,上卫增一（紫微左垣）,3.3,-,no,no,Alphirk
+155,Alrai,g,Cep,少卫增八（紫微左垣）,3.9,-,no,no,Alrai
+156,Alrakis *,m,Dra,天棓增九,5.1,-,no,yes,Alrakis
+157,Alrami,a,Sgr,天渊三,4.1,-,no,no,Alrami
+158,Alrescha *,a,Psc,外屏七,4.3,d,no,yes,Alrescha
+159,Alrischa,a,Psc,外屏七,4.3,d,no,no,Alrischa
+160,Alrisha,a,Psc,外屏七,4.3,d,no,no,Alrisha
+161,Alruccabah,a,UMi,勾陈一，北极星,2.02,d,no,no,Alruccabah
+162,Alsafi,s,Dra,天厨二,4.7,-,no,no,Alsafi
+163,Alsahm,a,Sge,左旗一,4.4,-,no,no,Alsahm
+164,Alschain,b,Aql,河鼓一,3.7,-,no,no,Alschain
+165,Alschairn,b,Aql,河鼓一,3.7,-,no,no,Alschairn
+166,Alsciaukat,31,Lyn,上台增四,4.3,-,no,no,Alsciaukat
+167,Alshain *,b,Aql,河鼓一,3.7,-,no,yes,Alshain
+168,Alshat,n,Cap,牛宿增七,4.6,-,no,no,Alshat
+169,Alshemali,m,Leo,轩辕十,3.9,-,no,no,Alshemali
+170,Alsuhail,l,Vel,天记,2.21,-,no,no,Alsuhail
+171,Altair **,a,Aql,河鼓二,0.77,-,yes,no,Altair
+172,Altais *,d,Dra,天厨一,3.07,-,no,yes,Altais
+173,Altarf,b,Cnc,柳宿增十,3.5,-,no,no,Altarf
+174,Alterf *,l,Leo,轩辕八,4.3,-,no,yes,Alterf
+175,Althafi,s,Dra,天厨二,4.7,-,no,no,Althafi
+176,Althalimain,l,Aql,天弁七,3.6,-,no,no,Althalimain
+177,Aludra *,h,CMa,弧矢二,2.45,-,no,yes,Aludra
+178,Alula Australis *,x,UMa,下台二，三台六,3.9,-,no,yes,Alula Australis
+179,Alula Australe,x,UMa,下台二，三台六,3.9,-,no,no,Alula Australe
+180,Alula Boreale,n,UMa,下台一，三台五,3.7,-,no,no,Alula Boreale
+181,Alula Borealis *,n,UMa,下台一，三台五,3.7,-,no,yes,Alula Borealis
+182,Alwaid,b,Dra,天棓三,2.79,-,no,no,Alwaid
+183,Alwazl,g,Sgr,箕宿一,2.99,-,no,no,Alwazl
+184,Alwazn,d,CMa,弧矢一,1.84,-,no,no,Alwazn
+185,Alya *,s,Ser,徐，天市左垣七,4.5,-,no,yes,Alya
+186,Alzirr,x,Gem,井宿四,3.4,-,no,no,Alzirr
+187,Amazon Star,g,Ori,参宿五,1.64,-,no,no,Amazon Star
+188,Ancha *,q,Aqr,泣二,4.3,-,no,yes,Ancha
+189,Anchat,t2,Eri,天苑九,4.8,-,no,no,Anchat
+190,Angel Stern,a,UMi,勾陈一，北极星,2.02,d,no,no,Angel Stern
+191,Angetenar,t2,Eri,天苑九,4.8,-,no,no,Angetenar
+192,Ankaa *,a,Phe,火鸟六,2.39,-,no,yes,Ankaa
+193,Anser,a,Vul,齐增五,4.4,-,no,no,Anser
+194,Antares **,a,Sco,心宿二,0.96,d,yes,no,Antares
+195,Antecanis,a,CMi,南河三,0.38,-,no,no,Antecanis
+196,Apollo,a,Gem,北河二,1.58,d,no,no,Apollo
+197,Arcturus **,a,Boo,大角,-0.04,-,yes,no,Arcturus
+198,Arich,g,Vir,东上相，太微左垣二,2.75,d,no,no,Arich
+199,Arided,a,Cyg,天津四,1.25,-,no,no,Arided
+200,Aridif,a,Cyg,天津四,1.25,-,no,no,Aridif
+201,Arietis,a,Ari,娄宿三,2,-,no,no,Arietis
+202,Arkab *,b,Sgr,天渊一，天渊二,4.3,d,no,yes,Arkab
+203,Arkeb Posterior,b2,Sgr,天渊一,4.5,-,no,no,Arkeb Posterior
+204,Arkeb Prior,b1,Sgr,天渊二,4.3,-,no,no,Arkeb Prior
+205,Arneb *,a,Lep,厕一,2.58,-,no,yes,Arneb
+206,Arrai,g,Cep,少卫增八（紫微左垣）,3.9,-,no,no,Arrai
+207,Arrakis,m,Dra,天棓增九,5.1,-,no,no,Arrakis
+208,Arrioph,a,Cyg,天津四,1.25,-,no,no,Arrioph
+209,Asad Australis,e,Leo,轩辕九,2.98,-,no,no,Asad Australis
+210,Ascella *,x,Sgr,斗宿六,2.6,-,no,yes,Ascella
+211,Aschere,a,CMa,天狼,-1.46,d,no,no,Aschere
+212,Asellus Australis *,d,Cnc,鬼宿四,4.2,-,no,yes,Asellus Australis
+213,Asellus Borealis *,g,Cnc,鬼宿三,4.7,-,no,yes,Asellus Borealis
+214,Asellus Primus,q,Boo,天枪三,4.1,-,no,no,Asellus Primus
+215,Asellus Secundus,i,Boo,天枪二,4.8,-,no,no,Asellus Secundus
+216,Asellus Tertius,k,Boo,天枪一,4.5,-,no,no,Asellus Tertius
+217,Ashtaroth,a,CrB,贯索四,2.23,-,no,no,Ashtaroth
+218,Asmidiske,i,Car,海石二,2.25,-,no,no,Asmidiske
+219,Asmidiske,x,Pup,弧矢增十七,3.5,-,no,no,Asmidiske
+220,Aspidiske *,i,Car,海石二,2.25,-,no,yes,Aspidiske
+221,Aspidiske,x,Pup,弧矢增十七,3.5,-,no,no,Aspidiske
+222,Asterion,b,CVn,常陈四,4.3,-,no,no,Asterion
+223,Asterope,21,Tau,昴宿三,5.8,-,no,no,Asterope
+224,Asuia,b,Dra,天棓三,2.79,-,no,no,Asuia
+225,Atair,a,Aql,河鼓二,0.77,-,no,no,Atair
+226,Athafi,s,Dra,天厨二,4.7,-,no,no,Athafi
+227,Athafiyy,s,Dra,天厨二,4.7,-,no,no,Athafiyy
+228,Ati,o,Per,卷舌增七,3.8,-,no,no,Ati
+229,Atik *,o,Per,卷舌增七,3.8,-,no,yes,Atik
+230,Atiks,o,Per,卷舌增七,3.8,-,no,no,Atiks
+231,Atlas *,27,Tau,昴宿七,3.8,-,no,yes,Atlas
+232,Atria *,a,TrA,三角形三,1.92,-,no,yes,Atria
+233,Auva,d,Vir,东次相，太微左垣三,3.4,-,no,no,Auva
+234,Avior *,e,Car,海石一,1.86,-,no,yes,Avior
+235,Azelfafage,p1,Cyg,螣蛇四,4.8,-,no,no,Azelfafage
+236,Azha *,h,Eri,天苑六,4.1,-,no,yes,Azha
+237,Azimech,a,Vir,角宿一,0.98,-,no,no,Azimech
+238,Azmidiske,i,Car,海石二,2.25,-,no,no,Azmidiske
+239,Azmidiske,x,Pup,弧矢增十七,3.5,-,no,no,Azmidiske
+240,Baham,q,Peg,危宿二,3.5,-,no,no,Baham
+241,Baiten Kaitos,x,Cet,天仓四,3.9,-,no,no,Baiten Kaitos
+242,Baten Kaitos *,x,Cet,天仓四,3.9,-,no,yes,Baten Kaitos
+243,Batenkaitos,x,Cet,天仓四,3.9,-,no,no,Batenkaitos
+244,Becrux,b,Cru,十字架三,1.25,-,no,no,Becrux
+245,Beid *,o1,Eri,九洲殊口二,4.1,-,no,yes,Beid
+246,Bellatrix *,g,Ori,参宿五,1.64,-,no,yes,Bellatrix
+247,Benatnasch,h,UMa,摇光，北斗七,1.86,-,no,no,Benatnasch
+248,Benetnasch,h,UMa,摇光，北斗七,1.86,-,no,no,Benetnasch
+249,Benetnash,h,UMa,摇光，北斗七,1.86,-,no,no,Benetnash
+250,Betelgeuse **,a,Ori,参宿四,0.5,v,yes,no,Betelgeuse
+251,Betelgeux,a,Ori,参宿四,0.5,v,no,no,Betelgeux
+252,Betelgeuze,a,Ori,参宿四,0.5,v,no,no,Betelgeuze
+253,Biham *,q,Peg,危宿二,3.5,-,no,yes,Biham
+254,Botein,d,Ari,天阴四,4.5,-,no,no,Botein
+255,Brachium,s,Lib,折威七,3.3,-,no,no,Brachium
+256,Bunda,x,Aqr,天垒城一,4.7,-,no,no,Bunda
+257,Caiam,w,Her,斗一,4.6,-,no,no,Caiam
+258,Cajam,w,Her,斗一,4.6,-,no,no,Cajam
+259,Calbalakrab,a,Sco,心宿二,0.96,d,no,no,Calbalakrab
+260,Calx,m,Gem,井宿一,2.88,-,no,no,Calx
+261,Canicula,a,CMa,天狼,-1.46,d,no,no,Canicula
+262,Canopus **,a,Car,老人,-0.72,-,yes,no,Canopus
+263,Capella **,a,Aur,五车二,0.08,-,yes,no,Capella
+264,Caph *,b,Cas,王良一,2.27,-,no,yes,Caph
+265,Caput Trianguli,a,Tri,娄宿增六,3.4,-,no,no,Caput Trianguli
+266,Castor *,a,Gem,北河二,1.58,d,no,yes,Castor
+267,Castula,n,Cas,阁道五,4.8,-,no,no,Castula
+268,Cebalrai *,b,Oph,宗正一,2.77,-,no,yes,Cebalrai
+269,Cebelrai,b,Oph,宗正一,2.77,-,no,no,Cebelrai
+270,Ceginus,g,Boo,招摇,3.03,-,no,no,Ceginus
+271,Celaeno *,16,Tau,昴宿增六,5.4,-,no,yes,Celaeno
+272,Celb-al-Rai,b,Oph,宗正一,2.77,-,no,no,Celb-al-Rai
+273,Celeno,16,Tau,昴宿增六,5.4,-,no,no,Celeno
+274,Celieno,16,Tau,昴宿增六,5.4,-,no,no,Celieno
+275,Chaph,b,Cas,王良一,2.27,-,no,no,Chaph
+276,Chara,a,CVn,常陈一,2.9,-,no,no,Chara
+277,Chara *,b,CVn,常陈四,4.3,-,no,yes,Chara
+278,Cheleb,b,Oph,宗正一,2.77,-,no,no,Cheleb
+279,Chertan *,q,Leo,西次相，太微右垣四,3.4,-,no,yes,Chertan
+280,Choo,a,Ara,杵二（箕宿）,2.95,-,no,no,Choo
+281,Chort,q,Leo,西次相，太微右垣四,3.4,-,no,no,Chort
+282,Cih,g,Cas,策,2.47,-,no,no,Cih
+283,Clava,m,Boo,七公六,4.5,-,no,no,Clava
+284,Cor Caroli *,a,CVn,常陈一,2.9,-,no,yes,Cor Caroli
+285,Cor Hydrae,a,Hya,星宿一,1.98,-,no,no,Cor Hydrae
+286,Cor Leonis,a,Leo,轩辕十四,1.35,d,no,no,Cor Leonis
+287,Cor Scorpii,a,Sco,心宿二,0.96,d,no,no,Cor Scorpii
+288,Cor Sepentis,a,Ser,蜀，天市右垣七,2.65,-,no,no,Cor Sepentis
+289,Cor Tauri,a,Tau,毕宿五,0.85,d,no,no,Cor Tauri
+290,Cornu,s,Lib,折威七,3.3,-,no,no,Cornu
+291,Coxa,q,Leo,西次相，太微右垣四,3.4,-,no,no,Coxa
+292,Cujam,w,Her,斗一,4.6,-,no,no,Cujam
+293,Cursa *,b,Eri,玉井三,2.79,-,no,yes,Cursa
+294,Cymbae,a,Phe,火鸟六,2.39,-,no,no,Cymbae
+295,Cynosaura,a,UMi,"勾陈一,北极星",2.02,d,no,no,Cynosaura
+296,Cynosura,a,UMi,"勾陈一,北极星",2.02,d,no,no,Cynosura
+297,Dabih *,b,Cap,牛宿一,3.08,-,no,yes,Dabih
+298,Dabih Major,b1,Cap,牛宿一,3.1,-,no,no,Dabih Major
+299,Dabih Minor,b2,Cap,牛宿一,6.1,-,no,no,Dabih Minor
+300,Deneb,e,Aql,吴越增一,4,-,no,no,Deneb
+301,Deneb,x,Aql,吴越，天市左垣六,2.99,-,no,no,Deneb
+302,Deneb,h,Cet,天仓二,3.5,-,no,no,Deneb
+303,Deneb **,a,Cyg,天津四,1.25,-,yes,no,Deneb
+304,Deneb,e,Del,败瓜一,4,-,no,no,Deneb
+305,Deneb,b,Leo,五帝座一,2.14,-,no,no,Deneb
+306,Deneb Algedi *,d,Cap,垒壁阵四,2.87,-,no,yes,Deneb Algedi
+307,Deneb Al Giedi,d,Cap,垒壁阵四,2.87,-,no,no,Deneb Al Giedi
+308,Deneb al Schemali,i,Cet,天仓一,3.6,-,no,no,Deneb al Schemali
+309,Deneb Aleet,b,Leo,五帝座一,2.14,-,no,no,Deneb Aleet
+310,Deneb Algedi,d,Cap,垒壁阵四,2.87,-,no,no,Deneb Algedi
+311,Deneb Algenudi,h,Cet,天仓二,3.5,-,no,no,Deneb Algenudi
+312,Deneb Algiedi,d,Cap,垒壁阵四,2.87,-,no,no,Deneb Algiedi
+313,Deneb Cygni,a,Cyg,天津四,1.25,-,no,no,Deneb Cygni
+314,Deneb Dulfim,e,Del,败瓜一,4,-,no,no,Deneb Dulfim
+315,Deneb el Adige,a,Cyg,天津四,1.25,-,no,no,Deneb el Adige
+316,Deneb el Delphinus,e,Del,败瓜一,4,-,no,no,Deneb el Delphinus
+317,Deneb el Okab,e,Aql,吴越增一,4,-,no,no,Deneb el Okab
+318,Deneb el Okab,x,Aql,吴越，天市左垣六,2.99,-,no,no,Deneb el Okab
+319,Deneb Kait,b,Cet,土司空,2.04,-,no,no,Deneb Kait
+320,Deneb Kaitos *,b,Cet,土司空,2.04,-,no,yes,Deneb Kaitos
+321,Deneb Kaitos Senubi,b,Cet,土司空,2.04,-,no,no,Deneb Kaitos Senubi
+322,Deneb Kaitos Shamaliyy,i,Cet,天仓一,3.6,-,no,no,Deneb Kaitos Shamaliyy
+323,Deneb Kaitos Shemali,i,Cet,天仓一,3.6,-,no,no,Deneb Kaitos Shemali
+324,Deneb Okab,d,Aql,右旗三,3.4,-,no,no,Deneb Okab
+325,Denebola *,b,Leo,五帝座一,2.14,-,no,yes,Denebola
+326,Denebolan,b,Leo,五帝座一,2.14,-,no,no,Denebolan
+327,Dhabih,b,Cap,牛宿一,3.08,-,no,no,Dhabih
+328,Dhalim,b,Eri,玉井三,2.79,-,no,no,Dhalim
+329,Dheneb,x,Aql,吴越，天市左垣六,2.99,-,no,no,Dheneb
+330,Dheneb,h,Cet,天仓二,3.5,-,no,no,Dheneb
+331,Dhur,d,Leo,西上相，太微右垣五,2.56,-,no,no,Dhur
+332,Diadem,a,Com,东上将，太微左垣五,5.2,-,no,no,Diadem
+333,Difda,b,Cet,土司空,2.04,-,no,no,Difda
+334,Difda al Auwel,a,PsA,北落师门,1.16,-,no,no,Difda al Auwel
+335,Difda al Thani,b,Cet,土司空,2.04,-,no,no,Difda al Thani
+336,Diphda,b,Cet,土司空,2.04,-,no,no,Diphda
+337,Dnoces,i,UMa,上台一，三台一,3.14,-,no,no,Dnoces
+338,Dschubba,d,Sco,房宿三,2.32,-,no,no,Dschubba
+339,Dsiban,y,Dra,女史增一,4.9,-,no,no,Dsiban
+340,Dubb,a,UMa,天枢，北斗一,1.79,-,no,no,Dubb
+341,Dubhe *,a,UMa,天枢，北斗一,1.79,-,no,yes,Dubhe
+342,Duhr,d,Leo,西上相，太微右垣五,2.56,-,no,no,Duhr
+343,Dziban,y,Dra,女史增一,4.9,-,no,no,Dziban
+344,Dzuba,d,Sco,房宿三,2.32,-,no,no,Dzuba
+345,Ed Asich,i,Dra,左枢，紫微左垣一,3.3,-,no,no,Ed Asich
+346,Edasich *,i,Dra,左枢，紫微左垣一,3.3,-,no,yes,Edasich
+347,El Acola,x,UMa,下台二，三台六,3.9,-,no,no,El Acola
+348,El Dhalim,b,Eri,玉井三,2.79,-,no,no,El Dhalim
+349,El Difda,b,Cet,土司空,2.04,-,no,no,El Difda
+350,El Ghoul,b,Per,大陵五,2.12,v,no,no,El Ghoul
+351,El Kaprah,k,UMa,上台二，二台二,3.6,-,no,no,El Kaprah
+352,El Karidab,d,Sgr,箕宿二,2.7,-,no,no,El Karidab
+353,El Khereb,t,Peg,离宫五,4.6,-,no,no,El Khereb
+354,El Koprah,c,UMa,太阳守,3.7,-,no,no,El Koprah
+355,El Melik,a,Aqr,危宿一,2.96,-,no,no,El Melik
+356,El Nath,a,Ari,娄宿三,2,-,no,no,El Nath
+357,El Nath,b,Tau,五车五,1.65,-,no,no,El Nath
+358,El Phekrah,m,UMa,中台二，三台四,3.05,-,no,no,El Phekrah
+359,El Rakis,m,Dra,天棓增九,5.1,-,no,no,El Rakis
+360,El Rischa,a,Psc,外屏七,4.3,d,no,no,El Rischa
+361,Elacrab,b,Sco,房宿四,2.55,d,no,no,Elacrab
+362,Eldsich,i,Dra,左枢，紫微左垣一,3.3,-,no,no,Eldsich
+363,Electra *,17,Tau,昴宿一,3.8,-,no,yes,Electra
+364,Elgebar,b,Ori,参宿七,0.12,d,no,no,Elgebar
+365,Elgomaisa,a,CMi,南河三,0.38,-,no,no,Elgomaisa
+366,Elkeid,h,UMa,摇光，北斗七,1.86,-,no,no,Elkeid
+367,Elkhiffa Australis,a,Lib,氐宿一,2.75,-,no,no,Elkhiffa Australis
+368,Elkhiffa Boraelis,b,Lib,氐宿四,2.61,-,no,no,Elkhiffa Boraelis
+369,Elmathalleth,a,Tri,娄宿增六,3.4,-,no,no,Elmathalleth
+370,Elmuthalleth,a,Tri,娄宿增六,3.4,-,no,no,Elmuthalleth
+371,Elnath *,b,Tau,五车五,1.65,-,no,yes,Elnath
+372,Eltanin *,g,Dra,天棓四,2.23,-,no,yes,Eltanin
+373,Enf,e,Peg,危宿三,2.39,d,no,no,Enf
+374,Enif *,e,Peg,危宿三,2.39,d,no,yes,Enif
+375,Eniph,e,Peg,危宿三,2.39,d,no,no,Eniph
+376,Enir,e,Peg,危宿三,2.39,d,no,no,Enir
+377,Er Rai,g,Cep,少卫增八（紫微左垣）,3.9,-,no,no,Er Rai
+378,Er Rakis,m,Dra,天棓增九,5.1,-,no,no,Er Rakis
+379,Erakis,m,Cep,造父四,4.1,v,no,no,Erakis
+380,Errai *,g,Cep,少卫增八（紫微左垣）,3.9,-,no,yes,Errai
+381,Errakis,m,Dra,天棓增九,5.1,-,no,no,Errakis
+382,Etamin,g,Dra,天棓四,2.23,-,no,no,Etamin
+383,Etanin,g,Dra,天棓四,2.23,-,no,no,Etanin
+384,Ettanin,g,Dra,天棓四,2.23,-,no,no,Ettanin
+385,Falx Italica,38,Boo,玄戈增二,5.7,-,no,no,Falx Italica
+386,Fidis,a,Lyr,织女一,0.03,d,no,no,Fidis
+387,Fom,e,Peg,危宿三,2.39,d,no,no,Fom
+388,Fomalhaut **,a,PsA,北落师门,1.16,-,yes,no,Fomalhaut
+389,Fornacis,a,For,天苑增三，天苑增四,3.9,-,no,no,Fornacis
+390,Fum Al Samakah,b,Psc,霹雳一,4.5,-,no,no,Fum Al Samakah
+391,Furud *,z,CMa,孙增一,3.02,-,no,yes,Furud
+392,Gacrux *,g,Cru,十字架一,1.63,d,no,yes,Gacrux
+393,Gallina,a,Cyg,天津四,1.25,-,no,no,Gallina
+394,Garnet Star,m,Cep,造父四,4.1,v,no,no,Garnet Star
+395,Gemma,a,CrB,贯索四,2.23,-,no,no,Gemma
+396,Genam,x,Dra,天棓一,3.8,-,no,no,Genam
+397,Gianfar,l,Dra,上辅，紫微右垣三,4.1,-,no,no,Gianfar
+398,Giansar,l,Dra,上辅，紫微右垣三,4.1,-,no,no,Giansar
+399,Giausar *,l,Dra,上辅，紫微右垣三,4.1,-,no,yes,Giausar
+400,Giauzar,l,Dra,上辅，紫微右垣三,4.1,-,no,no,Giauzar
+401,Giedi,a,Cap,牛宿二,3.6,d,no,no,Giedi
+402,Giede Prime,a1,Cap,牛宿增六,4.2,-,no,no,Giede Prime
+403,Giede Secunda,a2,Cap,牛宿二,3.6,-,no,no,Giede Secunda
+404,Gienah *,g,Crv,轸宿一,2.59,-,no,yes,Gienah
+405,Gienah,e,Cyg,天津九,2.46,-,no,no,Gienah
+406,Gienah Cygni,e,Cyg,天津九,2.46,-,no,no,Gienah Cygni
+407,Gienah Ghurab,g,Crv,轸宿一,2.9,-,no,no,Gienah Ghurab
+408,Gienar,e,Cyg,天津九,2.46,-,no,no,Gienar
+409,Gildun,d,UMi,勾陈二,4.4,-,no,no,Gildun
+410,Girtab,k,Sco,尾宿七,2.41,-,no,no,Girtab
+411,Gnosia,a,CrB,贯索四,2.23,-,no,no,Gnosia
+412,Gnosia Stella Cornonae,a,CrB,贯索四,2.23,-,no,no,Gnosia Stella Cornonae
+413,Gomeisa *,b,CMi,南河二,2.9,-,no,yes,Gomeisa
+414,Gomelza,b,CMi,南河二,2.9,-,no,no,Gomelza
+415,Gorgona,b,Per,大陵五,2.12,v,no,no,Gorgona
+416,Gorgonea Prima,b,Per,大陵五,2.12,v,no,no,Gorgonea Prima
+417,Gorgonea Quarta,w,Per,大陵增十八,4.6,-,no,no,Gorgonea Quarta
+418,Gorgonea Secunda,p,Per,积尸,4.7,-,no,no,Gorgonea Secunda
+419,Gorgonea Tertia,r,Per,大陵六,3.4,v,no,no,Gorgonea Tertia
+420,Graffias *,b,Sco,房宿四,2.55,d,no,yes,Graffias
+421,Graffias,z,Sco,尾宿三,3.8,-,no,no,Graffias
+422,Grafias,z,Sco,尾宿三,3.8,-,no,no,Grafias
+423,Gredi,a2,Cap,牛宿二,3.6,-,no,no,Gredi
+424,Hadar **,b,Cen,马腹一,0.61,-,yes,no,Hadar
+425,Haedus,z,Aur,柱二（毕宿）,3.8,-,no,no,Haedus
+426,Hamal *,a,Ari,娄宿三,2,-,no,yes,Hamal
+427,Hamul,a,Ari,娄宿三,2,-,no,no,Hamul
+428,Han,z,Oph,韩，天市右垣十一,2.56,-,no,no,Han
+429,Haris,g,Boo,招摇,3.03,-,no,no,Haris
+430,Hasseleh,i,Aur,五车一,2.69,-,no,no,Hasseleh
+431,Hastorang,a,PsA,北落师门,1.16,-,no,no,Hastorang
+432,Hatsya,i,Ori,伐三,2.77,d,no,no,Hatsya
+433,Hatysa,i,Ori,伐三,2.77,d,no,no,Hatysa
+434,Heka,l,Ori,觜宿一,3.7,-,no,no,Heka
+435,Hemal,a,Ari,娄宿三,2,-,no,no,Hemal
+436,Hercules,b,Gem,北河三,1.14,-,no,no,Hercules
+437,Herschel's Garnet Star,m,Cep,造父四,4.1,v,no,no,Herschel's Garnet Star
+438,Heze,z,Vir,角宿二,3.4,-,no,no,Heze
+439,Hoedus I,z,Aur,柱二（毕宿）,3.8,-,no,no,Hoedus I
+440,Hoedus II,h,Aur,柱三（毕宿）,3.17,-,no,no,Hoedus II
+441,Homam *,z,Peg,雷电一,3.4,-,no,yes,Homam
+442,Homan,z,Peg,雷电一,3.4,-,no,no,Homan
+443,Humam,z,Peg,雷电一,3.4,-,no,no,Humam
+444,Hyadem I,g,Tau,毕宿四,3.7,-,no,no,Hyadem I
+445,Hyadem II,d1,Tau,毕宿三,3.8,-,no,no,Hyadem II
+446,Hyadem Primus,g,Tau,毕宿四,3.7,-,no,no,Hyadem Primus
+447,Hyadum I,g,Tau,毕宿四,3.7,-,no,no,Hyadum I
+448,Hyadum II,d1,Tau,毕宿三,3.8,-,no,no,Hyadum II
+449,Hyadum Primus,g,Tau,毕宿四,3.7,-,no,no,Hyadum Primus
+450,Icalurus,m,Boo,七公六,4.5,-,no,no,Icalurus
+451,Iclarkrau,d,Sco,房宿三,2.32,-,no,no,Iclarkrau
+452,Iclarkrav,d,Sco,房宿三,2.32,-,no,no,Iclarkrav
+453,Inkalunis,m,Boo,七公六,4.5,-,no,no,Inkalunis
+454,Isis,a,CMa,天狼,-1.46,d,no,no,Isis
+455,Isis,g,CMa,天狼增四,4.1,-,no,no,Isis
+456,Izar *,e,Boo,梗河一,2.37,d,no,yes,Izar
+457,Jabbah,n,Sco,键闭,4,-,no,no,Jabbah
+458,Jed,d,Oph,梁，天市右垣九,2.74,-,no,no,Jed
+459,Jewel,a,CrB,贯索四,2.23,-,no,no,Jewel
+460,Job's Star,a,Boo,大角,-0.04,-,no,no,Job's Star
+461,Jugum,g,Lyr,渐台三,3.2,-,no,no,Jugum
+462,Juza,l,Dra,上辅，紫微右垣三,4.1,-,no,no,Juza
+463,Juza,x,Dra,天棓一,3.8,-,no,no,Juza
+464,Kabeleced,a,Leo,轩辕十四,1.35,d,no,no,Kabeleced
+465,Kaff,b,Cas,王良一,2.27,-,no,no,Kaff
+466,Kaffa,d,UMa,"天权,北斗四",3.4,-,no,no,Kaffa
+467,Kaffaljidhmah,g,Cet,天囷八,3.5,d,no,no,Kaffaljidhmah
+468,Kaffaljidma,g,Cet,天囷八,3.5,d,no,no,Kaffaljidma
+469,Kaitain,a,Psc,外屏七,4.3,d,no,no,Kaitain
+470,Kajam,w,Her,斗一,4.6,-,no,no,Kajam
+471,Kalb,a,Leo,轩辕十四,1.35,d,no,no,Kalb
+472,Kalb al Akrab,a,Sco,心宿二,0.96,d,no,no,Kalb al Akrab
+473,Kalb al Rai,b,Oph,宗正一,2.77,-,no,no,Kalb al Rai
+474,Kalbalrai,b,Oph,宗正一,2.77,-,no,no,Kalbalrai
+475,Kalbelaphard,a,Hya,星宿一,1.98,-,no,no,Kalbelaphard
+476,Kaus Australis *,e,Sgr,箕宿三,1.85,-,no,yes,Kaus Australis
+477,Kaus Borealis *,l,Sgr,斗宿二,2.81,-,no,yes,Kaus Borealis
+478,Kaus Media *,d,Sgr,箕宿二,2.7,-,no,yes,Kaus Media
+479,Kaus Medius,d,Sgr,箕宿二,2.7,-,no,no,Kaus Medius
+480,Kaus Meridionalis,d,Sgr,箕宿二,2.7,-,no,no,Kaus Meridionalis
+481,Ke Kouan,b,Lup,骑官四,2.68,-,no,no,Ke Kouan
+482,Keid *,o2,Eri,九州殊口增十一,4.4,-,no,yes,Keid
+483,Kelb,a,Leo,轩辕十四,1.35,d,no,no,Kelb
+484,Kelb Alrai,b,Oph,宗正一,2.77,-,no,no,Kelb Alrai
+485,Kelb-al-Rai,b,Oph,宗正一,2.77,-,no,no,Kelb-al-Rai
+486,Kerb,t,Peg,离宫五,4.6,-,no,no,Kerb
+487,Kied,o2,Eri,九洲殊口增十一,4.4,-,no,no,Kied
+488,Kiffa Australis,a,Lib,氐宿一,2.75,-,no,no,Kiffa Australis
+489,Kiffa Boraelis,b,Lib,氐宿四,2.61,-,no,no,Kiffa Boraelis
+490,Kitabpha,a,Equ,虚宿二,3.9,-,no,no,Kitabpha
+491,Kitalpha *,a,Equ,虚宿二,3.9,-,no,yes,Kitalpha
+492,Kitalphar,a,Equ,虚宿二,3.9,-,no,no,Kitalphar
+493,Kitel Phard,a,Equ,虚宿二,3.9,-,no,no,Kitel Phard
+494,Kocab,b,UMi,帝，北极二,2.08,-,no,no,Kocab
+495,Kochab *,b,UMi,帝，北极二,2.08,-,no,yes,Kochab
+496,Kochah,b,UMi,帝，北极二,2.08,-,no,no,Kochah
+497,Korneforos,b,Her,河中，天市右垣一,2.8,-,no,no,Korneforos
+498,Kornephoros *,b,Her,河中，天市右垣一,2.8,-,no,yes,Kornephoros
+499,Kraz,b,Crv,轸宿四,2.65,-,no,no,Kraz
+500,Ksora,d,Cas,阁道三,2.68,-,no,no,Ksora
+501,Kuma,n,Dra,天棓二,5,d,no,no,Kuma
+502,Kurhah *,x,Cep,天钩六,4.3,d,no,yes,Kurhah
+503,Kursa,b,Eri,玉井三,2.79,-,no,no,Kursa
+504,La Superba,y,CVn,-,5.6,-,no,no,La Superba
+505,Lesath,l,Sco,尾宿八,1.63,-,no,no,Lesath
+506,Lesath,n,Sco,键闭,4,-,no,no,Lesath
+507,Lesath *,u,Sco,尾宿九,2.69,-,no,yes,Lesath
+508,Leschath,u,Sco,尾宿九,2.69,-,no,no,Leschath
+509,Lesuth,l,Sco,尾宿八,1.63,-,no,no,Lesuth
+510,Lesuth,u,Sco,尾宿九,2.69,-,no,no,Lesuth
+511,Lodestar,a,UMi,勾陈一，北极星,2.02,d,no,no,Lodestar
+512,Lucida Cymbae,a,Phe,火鸟六,2.39,-,no,no,Lucida Cymbae
+513,Maasym,l,Her,赵，天市左垣二,4.5,-,no,no,Maasym
+514,Maaz,e,Aur,柱一（毕宿）,2.99,v,no,no,Maaz
+515,Mabsuthat,31,Lyn,上台增四,4.3,-,no,no,Mabsuthat
+516,Maia *,20,Tau,昴宿四,4,-,no,yes,Maia
+517,Maiaplacidus,b,Car,南船五,1.68,-,no,no,Maiaplacidus
+518,Marchab,a,Peg,室宿一,2.49,-,no,no,Marchab
+519,Marfac,a,Per,天船三,1.79,-,no,no,Marfac
+520,Marfak,m,Cas,-,5.2,-,no,no,Marfak
+521,Marfak,q,Cas,阁道四,4.3,-,no,no,Marfak
+522,Marfak,k,Her,晋，天市右垣三,5.3,d,no,no,Marfak
+523,Marfak,a,Per,天船三,1.79,-,no,no,Marfak
+524,Marfic,l,Oph,列肆二,3.8,-,no,no,Marfic
+525,Marfik,k,Her,晋，天市右垣三,5.3,d,no,no,Marfik
+526,Marfik *,l,Oph,列肆二,3.8,-,no,yes,Marfik
+527,Markab *,a,Peg,室宿一,2.49,-,no,yes,Markab
+528,Markab,t,Peg,离宫五,4.6,-,no,no,Markab
+529,Markab,k1,Pup,弧矢六,4.5,-,no,no,Markab
+530,Markeb,t,Peg,离宫五,4.6,-,no,no,Markeb
+531,Markeb,k1,Pup,弧矢六,4.5,-,no,no,Markeb
+532,Markeb,C,Vel,-,3.4,-,no,no,Markeb
+533,Marrha,38,Boo,玄戈增二,5.7,-,no,no,Marrha
+534,Marsic,l,Oph,列肆二,3.8,-,no,no,Marsic
+535,Marsik,k,Her,晋，天市右垣三,5.3,d,no,no,Marsik
+536,Masym,l,Her,赵，天市左垣二,4.5,-,no,no,Masym
+537,Matar *,h,Peg,离宫四,2.94,-,no,yes,Matar
+538,Mebsuta *,e,Gem,井宿五,2.98,-,no,yes,Mebsuta
+539,Mebusta,e,Gem,井宿五,2.98,-,no,no,Mebusta
+540,Media,d,Sgr,箕宿二,2.7,-,no,no,Media
+541,Megres *,d,UMa,天权，北斗四,3.4,-,no,yes,Megres
+542,Megrez,d,UMa,天权，北斗四,3.4,-,no,no,Megrez
+543,Meissa *,l,Ori,觜宿一,3.7,-,no,yes,Meissa
+544,Mekab,a,Cet,天囷一,2.53,-,no,no,Mekab
+545,Mekbuda *,z,Gem,井宿七,3.8,v,no,yes,Mekbuda
+546,Melboula,e,Gem,井宿五,2.98,-,no,no,Melboula
+547,Melucta,e,Gem,井宿五,2.98,-,no,no,Melucta
+548,Men,a,Lup,骑官十,2.3,-,no,no,Men
+549,Menchib,x,Per,卷舌三,4.6,-,no,no,Menchib
+550,Menkab,a,Cet,天囷一,2.53,-,no,no,Menkab
+551,Menkalina,b,Aur,五车三,1.9,-,no,no,Menkalina
+552,Menkalinan *,b,Aur,五车三,1.9,-,no,yes,Menkalinan
+553,Menkar *,a,Cet,天囷一,2.53,-,no,yes,Menkar
+554,Menkar,l,Cet,天囷三,4.7,-,no,no,Menkar
+555,Menkent *,q,Cen,库楼三,2.06,-,no,yes,Menkent
+556,Menkhib,z,Per,卷舌四,2.85,-,no,no,Menkhib
+557,Menkib,b,Peg,室宿二,2.42,v,no,no,Menkib
+558,Menkib *,z,Per,卷舌四,2.85,-,no,yes,Menkib
+559,Merach,b,And,奎宿九,2.06,-,no,no,Merach
+560,Merak *,b,UMa,天璇，北斗二,2.37,-,no,yes,Merak
+561,Meres,b,Boo,七公增五,3.6,-,no,no,Meres
+562,Merez,b,Boo,七公增五,3.6,-,no,no,Merez
+563,Merga,38,Boo,玄戈增二,5.7,-,no,no,Merga
+564,Meridiana,a,CrA,鳖六,4.1,-,no,no,Meridiana
+565,Merope *,23,Tau,昴宿五,4.2,-,no,yes,Merope
+566,Mesarthim,g,Ari,娄宿二,4.8,d,no,no,Mesarthim
+567,Mesartim *,g,Ari,娄宿二,4.8,d,no,yes,Mesartim
+568,Metallah,a,Tri,娄宿增六,3.4,-,no,no,Metallah
+569,Metallah,a,Tri,娄宿增六,3.4,-,no,no,Metallah
+570,Miaplacidus *,b,Car,南船五,1.68,-,no,yes,Miaplacidus
+571,Mimosa *,b,Cru,十字架三,1.25,-,no,yes,Mimosa
+572,Minelauva,b,Vir,右执法，太微右垣一,3.6,-,no,no,Minelauva
+573,Minelauva,d,Vir,东次相，太微左垣三,3.4,-,no,no,Minelauva
+574,Minelauva,d,Vir,东次相，太微左垣三,3.4,-,no,no,Minelauva
+575,Minkar,e,Crv,轸宿二,3,-,no,no,Minkar
+576,Mintaka *,d,Ori,参宿三,2.23,d,no,yes,Mintaka
+577,Mintika,d,Ori,参宿三,2.23,d,no,no,Mintika
+578,Mira *,o,Cet,刍贽增二,1.7,v,no,yes,Mira
+579,Mirac,b,And,奎宿九,2.06,-,no,no,Mirac
+580,Mirac,e,Boo,梗河一,2.37,d,no,no,Mirac
+581,Mirach *,b,And,奎宿九,2.06,-,no,yes,Mirach
+582,Mirach,e,Boo,梗河一,2.37,d,no,no,Mirach
+583,Mirak,e,Boo,梗河一,2.37,d,no,no,Mirak
+584,Miram,h,Per,天船一,3.9,d,no,no,Miram
+585,Mirfak,k,Her,晋，天市右垣三,5.3,d,no,no,Mirfak
+586,Mirfak,a,Peg,室宿一,2.49,-,no,no,Mirfak
+587,Mirfak *,a,Per,天船三,1.79,-,no,yes,Mirfak
+588,Mirphak,a,Peg,室宿一,2.49,-,no,no,Mirphak
+589,Mirphak,a,Per,天船三,1.79,-,no,no,Mirphak
+590,Mirrak,e,Boo,梗河一,2.37,d,no,no,Mirrak
+591,Mirza,b,CMa,军市一,1.98,-,no,no,Mirza
+592,Mirza,g,CMa,天狼增四,4.1,-,no,no,Mirza
+593,Mirza,z,UMa,开阳，北斗六,2.27,-,no,no,Mirza
+594,Mirzak,a,Per,天船三,1.79,-,no,no,Mirzak
+595,Mirzam *,b,CMa,军市一,1.98,-,no,yes,Mirzam
+596,Mirzim,b,CMa,军市一,1.98,-,no,no,Mirzim
+597,Misam,l,Her,赵，天市左垣二,4.5,-,no,no,Misam
+598,Misam,k,Per,大陵四,4,-,no,no,Misam
+599,Mismar,a,UMi,勾陈一，北极星,2.02,d,no,no,Mismar
+600,Mizar,b,And,奎宿九,2.06,-,no,no,Mizar
+601,Mizar,e,Boo,梗河一,2.37,d,no,no,Mizar
+602,Mizar *,z,UMa,开阳，北斗六,2.27,-,no,yes,Mizar
+603,Mizat,z,UMa,开阳，北斗六,2.27,-,no,no,Mizat
+604,Monkar,a,Cet,天囷一,2.53,-,no,no,Monkar
+605,Mothallah,a,Tri,娄宿增六,3.4,-,no,no,Mothallah
+606,Mufrid,h,Boo,右摄提一,2.86,-,no,no,Mufrid
+607,Mufride,h,Boo,右摄提一,2.86,-,no,no,Mufride
+608,Muhlifain,g,Cen,库楼七,2.17,-,no,no,Muhlifain
+609,Muliphain,g,CMa,天狼增四,4.1,-,no,no,Muliphain
+610,Muliphein,g,CMa,天狼增四,4.1,-,no,no,Muliphein
+611,Muliphen,g,CMa,天狼增四,4.1,-,no,no,Muliphen
+612,Muphrid *,h,Boo,右摄提一,2.86,-,no,yes,Muphrid
+613,Muphride,h,Boo,右摄提一,2.86,-,no,no,Muphride
+614,Murzim,b,CMa,军市一,1.98,-,no,no,Murzim
+615,Muscida *,o,UMa,内阶一,3.4,-,no,yes,Muscida
+616,Muscida,p2,UMa,内阶增七,4.8,-,no,no,Muscida
+617,Museida,p2,UMa,内阶增七,4.8,-,no,no,Museida
+618,Nair al Saif,i,Ori,伐三,2.77,d,no,no,Nair al Saif
+619,Nair al Zaurak,a,Phe,火鸟六,2.39,-,no,no,Nair al Zaurak
+620,Naos,z,Pup,弧矢增二十二,2.25,-,no,no,Naos
+621,Nash,g,Sgr,箕宿一,2.99,-,no,no,Nash
+622,Nashira *,g,Cap,垒壁阵三,3.8,-,no,yes,Nashira
+623,Nasl,g,Sgr,箕宿一,2.99,-,no,no,Nasl
+624,Nath,b,Tau,五车五,1.65,-,no,no,Nath
+625,Navi,e,Cas,阁道二,3.4,-,no,no,Navi
+626,Navigatoria,a,UMi,勾陈一，北极星,2.02,d,no,no,Navigatoria
+627,Nekkar *,b,Boo,七公增五,3.6,-,no,yes,Nekkar
+628,Nibal,b,Lep,厕二,2.84,-,no,no,Nibal
+629,Nicolaus,a,Del,瓠瓜一,3.8,-,no,no,Nicolaus
+630,Nihal *,b,Lep,厕二,2.84,-,no,yes,Nihal
+631,Nodus I,z,Dra,上弼，紫微左垣四,3.2,-,no,no,Nodus I
+632,Nodus II,d,Dra,天厨一,3.07,-,no,no,Nodus II
+633,Nodus Secundus,d,Dra,天厨一,3.07,-,no,no,Nodus Secundus
+634,Nunki *,s,Sgr,斗宿四,2.02,-,no,yes,Nunki
+635,Nusakan *,b,CrB,贯索三,3.1,-,no,yes,Nusakan
+636,Nushaba,g,Sgr,箕宿一,2.99,-,no,no,Nushaba
+637,Oculus Boreus,e,Tau,毕宿一,3.6,-,no,no,Oculus Boreus
+638,Okda,a,Psc,外屏七,4.3,d,no,no,Okda
+639,Os Pegasi,e,Peg,危宿三,2.39,d,no,no,Os Pegasi
+640,Os Piscis Meridiani,a,PsA,北落师门,1.16,-,no,no,Os Piscis Meridiani
+641,Os Piscis Notii,a,PsA,北落师门,1.16,-,no,no,Os Piscis Notii
+642,Osiris,a,CMa,天狼,-1.46,d,no,no,Osiris
+643,Palilicium,a,Tau,毕宿五,0.85,d,no,no,Palilicium
+644,Parilicium,a,Tau,毕宿五,0.85,d,no,no,Parilicium
+645,Peacock *,a,Pav,孔雀十一,1.94,-,no,yes,Peacock
+646,Phacd,g,UMa,天玑，北斗三,2.44,-,no,no,Phacd
+647,Phack,a,Col,丈人一,2.64,-,no,no,Phack
+648,Phact *,a,Col,丈人一,2.64,-,no,yes,Phact
+649,Phad,a,Col,丈人一,2.64,-,no,no,Phad
+650,Phad,g,UMa,天玑，北斗三,2.44,-,no,no,Phad
+651,Phad,g,UMa,天玑，北斗三,2.44,-,no,no,Phad
+652,Phaet,a,Col,丈人一,2.64,-,no,no,Phaet
+653,Phakt,a,Col,丈人一,2.64,-,no,no,Phakt
+654,Phecda *,g,UMa,"天玑,北斗三",2.44,-,no,yes,Phecda
+655,Phegda,g,UMa,"天玑,北斗三",2.44,-,no,no,Phegda
+656,Phakda,g,UMa,"天玑,北斗三",2.44,-,no,no,Phakda
+657,Phekha,g,UMa,"天玑,北斗三",2.44,-,no,no,Phekha
+658,Pherkad *,g,UMi,太子，北极一,3.05,-,no,yes,Pherkad
+659,Pherkad Major,g,UMi,太子，北极一,3.05,-,no,no,Pherkad Major
+660,Pherkad Minor,l,UMi,勾陈增五,5,-,no,no,Pherkad Minor
+661,Pherkard,d,UMi,勾陈二,4.4,-,no,no,Pherkard
+662,Phoenice,a,UMi,勾陈一，北极星,2.02,d,no,no,Phoenice
+663,Phurad,z,CMa,孙增一,3.02,-,no,no,Phurad
+664,Phurud,z,CMa,孙增一,3.02,-,no,no,Phurud
+665,Pishpai,m,Gem,井宿一,2.88,-,no,no,Pishpai
+666,Plaskett's Star,V640,Mon,-,6.1,-,no,no,Plaskett's Star
+667,Pleione *,28,Tau,昴宿增十二,5.1,-,no,yes,Pleione
+668,Polaris *,a,UMi,勾陈一，北极星,2.02,d,no,yes,Polaris
+669,Poaris Australis,s,Oct,南极,5.5,-,no,no,Poaris Australis
+670,Pollux **,b,Gem,北河三,1.14,-,yes,no,Pollux
+671,Porrima *,g,Vir,"东上相,太微左垣二",2.75,d,no,yes,Porrima
+672,Postvarta,g,Vir,"东上相,太微左垣二",2.75,d,no,no,Postvarta
+673,Praecipua,46,LMi,势四,3.8,-,no,no,Praecipua
+674,Prima Giedi,a,Cap,牛宿二,3.6,d,no,no,Prima Giedi
+675,Procyon **,a,CMi,南河三,0.38,-,yes,no,Procyon
+676,Propus *,h,Gem,钺,3.3,v,no,yes,Propus
+677,Propus,i,Gem,五诸侯三（井宿）,3.8,-,no,no,Propus
+678,Protrygetor,e,Vir,东次将，太微左垣四,2.83,-,no,no,Protrygetor
+679,Pulcherrima,e,Boo,梗河一,2.37,d,no,no,Pulcherrima
+680,Rana,d,Eri,天苑三,3.7,-,no,no,Rana
+681,Rana Secunda,b,Cet,土司空,2.04,-,no,no,Rana Secunda
+682,Ras al Asad,m,Leo,轩辕十,3.9,-,no,no,Ras al Asad
+683,Ras al Mothallath,a,Tri,娄宿增六,3.4,-,no,no,Ras al Mothallath
+684,Ras al Muthallath,a,Tri,娄宿增六,3.4,-,no,no,Ras al Muthallath
+685,Ras Algethi,a,Her,帝座,3.08,d,no,no,Ras Algethi
+686,Ras Alhagua,a,Oph,候,2.08,-,no,no,Ras Alhagua
+687,Ras Elased Australis,e,Leo,轩辕九,2.98,-,no,no,Ras Elased Australis
+688,Ras Elased Boraelis,m,Leo,轩辕十,3.9,-,no,no,Ras Elased Boraelis
+689,Ras Hammel,a,Ari,娄宿三,2,-,no,no,Ras Hammel
+690,Ras-al-hague,a,Oph,候,2.08,-,no,no,Ras-al-hague
+691,Ras-Alhague,a,Oph,候,2.08,-,no,no,Ras-Alhague
+692,Rasaben,b,Dra,天棓三,2.79,-,no,no,Rasaben
+693,Rasalas *,m,Leo,轩辕十,3.9,-,no,yes,Rasalas
+694,Rasalegti,a,Her,帝座,3.08,-,no,no,Rasalegti
+695,Rasalgethi *,a,Her,帝座,3.08,-,no,yes,Rasalgethi
+696,Rasalhague *,a,Oph,候,2.08,-,no,yes,Rasalhague
+697,Rasalmothallah,a,Tri,娄宿增六,3.4,-,no,no,Rasalmothallah
+698,Rassalas,m,Leo,轩辕十,3.9,-,no,no,Rassalas
+699,Rastaban *,b,Dra,天棓三,2.79,-,no,yes,Rastaban
+700,Rastaban,g,Dra,天棓四,2.23,-,no,no,Rastaban
+701,Rastaben,b,Dra,天棓三,2.79,-,no,no,Rastaben
+702,Reda,g,Aql,河鼓三,2.72,-,no,no,Reda
+703,Regor,g,Vel,天社一,1.8,-,no,no,Regor
+704,Regulus **,a,Leo,轩辕十四,1.35,d,yes,no,Regulus
+705,Rescha,a,Psc,外屏七,4.3,d,no,no,Rescha
+706,Rex,a,Leo,轩辕十四,1.35,d,no,no,Rex
+707,Rigel **,b,Ori,参宿七,0.12,d,yes,no,Rigel
+708,Rigel Kent,a,Cen,南门二,-0.27,d,no,no,Rigel Kent
+709,Rigel Kentaurus,a,Cen,南门二,-0.27,d,no,no,Rigel Kentaurus
+710,Rigil Kent,a,Cen,南门二,-0.27,d,no,no,Rigil Kent
+711,Rigil Kentaurus **,a,Cen,南门二,-0.27,d,yes,no,Rigil Kentaurus
+712,Rigl al Awwa,m,Vir,亢宿增七,3.9,-,no,no,Rigl al Awwa
+713,Rotanen,b,Del,瓠瓜四,3.7,-,no,no,Rotanen
+714,Rotanev,b,Del,瓠瓜四,3.7,-,no,no,Rotanev
+715,Rucha,d,Cas,阁道三,2.68,-,no,no,Rucha
+716,Ruchba,o2,Cyg,天津增三十七,5.4,-,no,no,Ruchba
+717,Ruchbah *,d,Cas,阁道三,2.68,-,no,yes,Ruchbah
+718,Ruchbah,e,Cas,阁道二,3.4,-,no,no,Ruchbah
+719,Rukbat *,a,Sgr,天渊三,4.1,-,no,yes,Rukbat
+720,Rukbat al Rami,a,Sgr,天渊三,4.1,-,no,no,Rukbat al Rami
+721,Rukbat al-dejajah,o2,Cyg,天津增三十七,5.4,-,no,no,Rukbat al-dejajah
+722,Rutilicus,b,Her,河中，天市右垣一,2.8,-,no,no,Rutilicus
+723,Rutilicus,z,Her,天纪二,2.81,-,no,no,Rutilicus
+724,Saad el Melik,a,Aqr,危宿一,2.96,-,no,no,Saad el Melik
+725,Saad el Suud,b,Aqr,虚宿一,2.91,-,no,no,Saad el Suud
+726,Saak,h,Boo,右摄提一,2.86,-,no,no,Saak
+727,Sabik *,h,Oph,宋，天市左垣十一,2.43,-,no,yes,Sabik
+728,Saclateni,z,Aur,柱二（毕宿）,3.8,-,no,no,Saclateni
+729,Sad es Saud,b,Aqr,虚宿一,2.91,-,no,no,Sad es Saud
+730,Sadachbia *,g,Aqr,坟墓二,3.8,-,no,yes,Sadachbia
+731,Sadal Melik,a,Aqr,危宿一,2.96,-,no,no,Sadal Melik
+732,Sadalachbia,g,Aqr,坟墓二,3.8,-,no,no,Sadalachbia
+733,Sadalbari *,m,Peg,离宫二,3.5,-,no,yes,Sadalbari
+734,Sadalmelek,a,Aqr,危宿一,2.96,-,no,no,Sadalmelek
+735,Sadalmelik *,a,Aqr,危宿一,2.96,-,no,yes,Sadalmelik
+736,Sadalsud,b,Aqr,虚宿一,2.91,-,no,no,Sadalsud
+737,Sadalsund,b,Aqr,虚宿一,2.91,-,no,no,Sadalsund
+738,Sadalsuud *,b,Aqr,虚宿一,2.91,-,no,yes,Sadalsuud
+739,Sadatoni,z,Aur,柱二（毕宿）,3.8,-,no,no,Sadatoni
+740,Sadatoni,z,Car,柱二（毕宿）,4,v,no,no,Sadatoni
+741,Sadir,g,Cyg,天津一,2.2,-,no,no,Sadir
+742,Sadira,s,Sgr,斗宿四,2.02,-,no,no,Sadira
+743,Sadlamulk,a,Aqr,危宿一,2.96,-,no,no,Sadlamulk
+744,Sador,g,Cyg,天津一,2.2,-,no,no,Sador
+745,Sadr *,g,Cyg,天津一,2.2,-,no,yes,Sadr
+746,Sadr el dedschadsche,g,Cyg,天津一,2.2,-,no,no,Sadr el dedschadsche
+747,Saidak,80,UMa,开阳增一,4,-,no,no,Saidak
+748,Saiph,h,Ori,参宿增三,3.4,-,no,no,Saiph
+749,Saiph,i,Ori,伐三,2.77,d,no,no,Saiph
+750,Saiph *,k,Ori,参宿六,2.06,-,no,yes,Saiph
+751,Salm,t,Peg,离宫五,4.6,-,no,no,Salm
+752,Sargas,q,Sco,尾宿五,1.87,-,no,no,Sargas
+753,Sarin,d,Her,魏，天市左垣一,3.14,-,no,no,Sarin
+754,Sartan,a,Cnc,柳宿增三,4.3,-,no,no,Sartan
+755,Scalovin,a,Del,瓠瓜一,3.8,-,no,no,Scalovin
+756,Sceptrum,53,Eri,九斿增四,4,-,no,no,Sceptrum
+757,Scheat,d,Aqr,羽林军二十六,3.3,-,no,no,Scheat
+758,Scheat *,b,Peg,室宿二,2.42,v,no,yes,Scheat
+759,Schedar *,a,Cas,王良四,2.23,v,no,yes,Schedar
+760,Scheddi,d,Cap,垒壁阵四,2.87,-,no,no,Scheddi
+761,Schedir,a,Cas,王良四,2.23,v,no,no,Schedir
+762,Schemali,i,Cet,天仓一,3.6,-,no,no,Schemali
+763,Scutulum,i,Car,海石二,2.25,-,no,no,Scutulum
+764,Seat Alpheras,b,Peg,室宿二,2.42,v,no,no,Seat Alpheras
+765,Secunda Giedi,a2,Cap,牛宿二,3.6,-,no,no,Secunda Giedi
+766,Segin,e,Cas,阁道二,3.4,-,no,no,Segin
+767,Seginus *,g,Boo,招摇,3.03,-,no,yes,Seginus
+768,Sertan,a,Cnc,柳宿增三,4.3,-,no,no,Sertan
+769,Sham,a,Sge,左旗一,4.4,-,no,no,Sham
+770,Sharatan,b,Ari,娄宿一,2.64,-,no,no,Sharatan
+771,Shaula *,l,Sco,尾宿八,1.63,-,no,yes,Shaula
+772,Sheat,b,Peg,室宿二,2.42,v,no,no,Sheat
+773,Shedar,a,Cas,王良四,2.23,v,no,no,Shedar
+774,Sheddi,d,Cap,垒壁阵四,2.87,-,no,no,Sheddi
+775,Shedir,a,Cas,王良四,2.23,v,no,no,Shedir
+776,Shedir,a,Cas,王良四,2.23,v,no,no,Shedir
+777,Sheliak *,b,Lyr,渐台二,3.4,v,no,yes,Sheliak
+778,Shelyak,b,Lyr,渐台二,3.4,v,no,no,Shelyak
+779,Shemali,i,Cet,天仓一,3.6,-,no,no,Shemali
+780,Sheratan *,b,Ari,娄宿一,2.64,-,no,yes,Sheratan
+781,Shiliak,b,Lyr,渐台二,3.4,v,no,no,Shiliak
+782,Singer,a,Aur,五车二,0.08,-,no,no,Singer
+783,Sirah,a,And,壁宿二,2.06,-,no,no,Sirah
+784,Sirius **,a,CMa,天狼,-1.46,d,yes,no,Sirius
+785,Sirrah,a,And,壁宿二,2.06,-,no,no,Sirrah
+786,Situla,k,Aqr,虚梁三,5.3,-,no,no,Situla
+787,Skat *,d,Aqr,羽林军二十六,3.3,-,no,yes,Skat
+788,Spica **,a,Vir,角宿一,0.98,-,yes,no,Spica
+789,Spica Virginis,a,Vir,角宿一,0.98,-,no,no,Spica Virginis
+790,Sterope *,21,Tau,昴宿三,5.8,-,no,yes,Sterope
+791,Sualocin,a,Del,瓠瓜一,3.8,-,no,no,Sualocin
+792,Subra,o,Leo,轩辕十五,3.8,-,no,no,Subra
+793,Suha,80,UMa,开阳增一,4,-,no,no,Suha
+794,Suhail,a,Car,老人,-0.72,-,no,no,Suhail
+795,Suhail,l,Vel,天记,2.21,-,no,no,Suhail
+796,Suhail al Mulif,g,Vel,天社一,1.8,-,no,no,Suhail al Mulif
+797,Suhail al Wazn,l,Vel,天记,2.21,-,no,no,Suhail al Wazn
+798,Suhail Hadar,z,Pup,弧矢增二十二,2.25,-,no,no,Suhail Hadar
+799,Suhail Radar,z,Car,柱二（毕宿）,4,v,no,no,Suhail Radar
+800,Suhel,a,Car,老人,-0.72,-,no,no,Suhel
+801,Sulafat *,g,Lyr,渐台三,3.2,-,no,yes,Sulafat
+802,Sulaphat,g,Lyr,渐台三,3.2,-,no,no,Sulaphat
+803,Superba,Y,CVn,-,5,-,no,no,Superba
+804,Svalocin,a,Del,瓠瓜一,3.8,-,no,no,Svalocin
+805,Syrma *,i,Vir,亢宿二,4.2,-,no,yes,Syrma
+806,Ta Tsun,p,UMa,内阶增七，内阶增九,4.8,-,no,no,Ta Tsun
+807,Tabit,p3,Ori,参旗六,3.3,-,no,no,Tabit
+808,Tabit,u,Ori,参宿增三十六,4.6,-,no,no,Tabit
+809,Tais,d,Dra,天厨一,3.07,-,no,no,Tais
+810,Talita,i,UMa,上台一，三台一,3.14,-,no,no,Talita
+811,Talitha *,i,UMa,上台一，三台一,3.14,-,no,yes,Talitha
+812,Tania Australis *,m,UMa,中台二，三台四,3.05,-,no,yes,Tania Australis
+813,Tania Borealis *,l,UMa,中台一，三台三,3.5,-,no,yes,Tania Borealis
+814,Tarazad,g,Aql,河鼓三,2.72,-,no,no,Tarazad
+815,Tarazed *,g,Aql,河鼓三,2.72,-,no,yes,Tarazed
+816,Tarf,b,Cnc,柳宿增十,3.5,-,no,no,Tarf
+817,Tayeta,19,Tau,昴宿二,4.4,-,no,no,Tayeta
+818,Taygeta *,19,Tau,昴宿二,4.4,-,no,yes,Taygeta
+819,Taygete,19,Tau,昴宿二,4.4,-,no,no,Taygete
+820,Tegmen,z,Cnc,水位四,4.7,d,no,no,Tegmen
+821,Tegmine,z,Cnc,水位四,4.7,d,no,no,Tegmine
+822,Tejat,m,Gem,井宿一,2.88,-,no,no,Tejat
+823,Tejat Posterior,m,Gem,井宿一,2.88,-,no,no,Tejat Posterior
+824,Tejat Prior,h,Gem,钺,3.3,v,no,no,Tejat Prior
+825,Terebellum,59,Sgr,狗国四,4.5,-,no,no,Terebellum
+826,Thabit,u,Ori,参宿增三十六,4.6,-,no,no,Thabit
+827,Theemim,n2,Eri,天园九,3.8,-,no,no,Theemim
+828,Theemin,n2,Eri,天园九,3.8,-,no,no,Theemin
+829,Theemini,d,Eri,天苑三,3.7,-,no,no,Theemini
+830,Thuban *,a,Dra,右枢，紫微右垣一,3.7,-,no,yes,Thuban
+831,Toliman,a,Cen,南门二,-0.27,d,no,no,Toliman
+832,Tolimann,a,Cen,南门二,-0.27,d,no,no,Tolimann
+833, Torcularis Septentrionalis ,o,Psc,右更四,4.3,-,no,no,Torcularis Septentrionalis
+834,Tramontana,a,UMi,勾陈一，北极星,2.02,d,no,no,Tramontana
+835,Tsih,g,Cas,策,2.47,-,no,no,Tsih
+836,Turais,i,Car,海石二,2.25,-,no,no,Turais
+837,Tureis,i,Car,海石二,2.25,-,no,no,Tureis
+838,Tyl,e,Dra,天厨三,4,-,no,no,Tyl
+839,Unuk,a,Ser,蜀，天市右垣七,2.65,-,no,no,Unuk
+840,Unuk al Hai,a,Ser,蜀，天市右垣七,2.65,-,no,no,Unuk al Hai
+841,Unuk El Haia,a,Ser,蜀，天市右垣七,2.65,-,no,no,Unuk El Haia
+842,Unuk Elhaia,a,Ser,蜀，天市右垣七,2.65,-,no,no,Unuk Elhaia
+843,Unukalhai *,a,Ser,蜀，天市右垣七,2.65,-,no,yes,Unukalhai
+844,Urkab Posterior,b2,Sgr,天渊一,4.5,-,no,no,Urkab Posterior
+845,Urkab Prior,b1,Sgr,天渊二,4.3,-,no,no,Urkab Prior
+846,Variabilis Coronae,R,CrB,-,5.8,v,no,no,Variabilis Coronae
+847,Vega **,a,Lyr,织女一,0.03,d,yes,no,Vega
+848,Venabulum,m,Boo,七公六,4.5,-,no,no,Venabulum
+849,Venator,b,Del,瓠瓜四,3.7,-,no,no,Venator
+850,Vendemiatrix,e,Vir,东次相，太微左垣四,2.83,-,no,no,Vendemiatrix
+851,Vespertilio,a,Sco,心宿二,0.96,d,no,no,Vespertilio
+852,Vespertilo,a,Sco,心宿二,0.96,d,no,no,Vespertilo
+853,Vildiur,d,UMi,勾陈二,4.4,-,no,no,Vildiur
+854,Vindemiator,e,Vir,东次将，太微左垣四,2.83,-,no,no,Vindemiator
+855,Vindemiatrix *,e,Vir,东次将，太微左垣四,2.83,-,no,yes,Vindemiatrix
+856,Wasat *,d,Gem,天樽二,3.5,-,no,yes,Wasat
+857,Wasn,b,Col,子二,3.12,-,no,no,Wasn
+858,Wazn *,b,Col,子二,3.12,-,no,yes,Wazn
+859,Wei,e,Sco,尾宿二,2.29,-,no,no,Wei
+860,Wesen,d,CMa,弧矢一,1.84,-,no,no,Wesen
+861,Wezea,d,CMa,弧矢一,1.84,-,no,no,Wezea
+862,Wezen,d,CMa,弧矢一,1.84,-,no,no,Wezen
+863,Wezn,b,Col,子二,3.12,-,no,no,Wezn
+864,Yad,d,Oph,梁，天市右垣九,2.74,-,no,no,Yad
+865,Yed,d,Oph,梁，天市右垣九,2.74,-,no,no,Yed
+866,Yed Post,e,Oph,楚，天市右垣十,3.3,-,no,no,Yed Post
+867,Yed Posterior *,e,Oph,楚，天市右垣十,3.3,-,no,yes,Yed Posterior
+868,Yed Prior *,d,Oph,梁，天市右垣九,2.74,-,no,yes,Yed Prior
+869,Yildun,d,UMi,勾陈二,4.4,-,no,no,Yildun
+870,Yilduz,a,UMi,勾陈一，北极星,2.02,d,no,no,Yilduz
+871,Yilduz,d,UMi,勾陈二,4.4,-,no,no,Yilduz
+872,Zania,h,Vir,左执法，太微左垣一,4.1,-,no,no,Zania
+873,Zaniah *,h,Vir,左执法，太微左垣一,4.1,-,no,yes,Zaniah
+874,Zarijan,b,Vir,右执法，太微右垣一,3.6,-,no,no,Zarijan
+875,Zaurac,g,Eri,天苑一,2.95,-,no,no,Zaurac
+876,Zaurack,g,Eri,天苑一,2.95,-,no,no,Zaurack
+877,Zaurak *,g,Eri,天苑一,2.95,-,no,yes,Zaurak
+878,Zavijah,b,Vir,右执法，太微右垣一,3.6,-,no,no,Zavijah
+879,Zavijava *,b,Vir,右执法，太微右垣一,3.6,-,no,yes,Zavijava
+880,Zavyava,b,Vir,右执法，太微右垣一,3.6,-,no,no,Zavyava
+881,Zawijah,b,Vir,右执法，太微右垣一,3.6,-,no,no,Zawijah
+882,Zebeneschamali,b,Lib,氐宿四,2.61,-,no,no,Zebeneschamali
+883,Zenith Star,g,Dra,天棓四,2.23,-,no,no,Zenith Star
+884,Zeubenelhakrabi,g,Lib,氐宿三,4,-,no,no,Zeubenelhakrabi
+885,Zibal,z,Eri,天苑五,4.9,-,no,no,Zibal
+886,Zibel,z,Eri,天苑五,4.9,-,no,no,Zibel
+887,Zosca,d,Leo,西上相，太微右垣五,2.56,-,no,no,Zosca
+888,Zosma *,d,Leo,西上相，太微右垣五,2.56,-,no,yes,Zosma
+889,Zozca,d,Leo,西上相，太微右垣五,2.56,-,no,no,Zozca
+890,Zozma,d,Leo,西上相，太微右垣五,2.56,-,no,no,Zozma
+891,Zuben el Chamali,b,Lib,氐宿四,2.61,-,no,no,Zuben el Chamali
+892,Zuben el Genubi,a,Lib,氐宿一,2.75,-,no,no,Zuben el Genubi
+893,Zuben el Genubi,g,Sco,-,3.3,-,no,no,Zuben el Genubi
+894,Zuben el Hakrabi,g,Lib,氐宿三,4,-,no,no,Zuben el Hakrabi
+895,Zuben Elakrab,g,Lib,氐宿三,4,-,no,no,Zuben Elakrab
+896,Zuben Elakribi,d,Lib,氐宿增一,4.9,v,no,no,Zuben Elakribi
+897,Zuben Elgenubi,a,Lib,氐宿一,2.75,-,no,no,Zuben Elgenubi
+898,Zuben Elgenubi,g,Sco,-,3.3,-,no,no,Zuben Elgenubi
+899,Zuben Elschemali,b,Lib,氐宿四,2.61,-,no,no,Zuben Elschemali
+900,Zuben Hakrabi,g,Lib,氐宿三,4,-,no,no,Zuben Hakrabi
+901,Zuben Hakrabi,h,Lib,西咸四,5.4,-,no,no,Zuben Hakrabi
+902,Zuben Hakrabi,n,Lib,氐宿增十,5.2,-,no,no,Zuben Hakrabi
+903,Zuben Hakrabi,g,Sco,-,3.3,-,no,no,Zuben Hakrabi
+904,Zuben Hakraki,g,Lib,氐宿三,4,-,no,no,Zuben Hakraki
+905,Zubenalgubi,s,Lib,折威七,3.3,-,no,no,Zubenalgubi
+906,Zubenalgubi,g,Sco,-,3.3,-,no,no,Zubenalgubi
+907,Zubenelakrab,g,Lib,氐宿三,4,-,no,no,Zubenelakrab
+908,Zubenelakribi,d,Lib,氐宿增一,4.9,v,no,no,Zubenelakribi
+909,Zubenelchemali,b,Lib,氐宿四,2.61,-,no,no,Zubenelchemali
+910,Zubenelg,b,Lib,氐宿四,2.61,-,no,no,Zubenelg
+911,Zubenelgenubi *,a,Lib,氐宿一,2.75,-,no,yes,Zubenelgenubi
+912,Zubenesch,b,Lib,氐宿四,2.61,-,no,no,Zubenesch
+913,Zubeneschamali *,b,Lib,氐宿四,2.61,-,no,yes,Zubeneschamali
+914,Zubenhakrabi,g,Lib,氐宿三,4,-,no,no,Zubenhakrabi
+915,Zubra,d,Leo,西上相，太微右垣五,2.56,-,no,no,Zubra
+916,Zuji al Nushshabah,g,Sgr,箕宿一,2.99,-,no,no,Zuji al Nushshabah
