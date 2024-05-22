@@ -8,10 +8,10 @@ if p.exists(): p.unlink()
 
 conn = sqlite3.connect(db)
 
-df = pd.read_csv('cons.csv')
+df = pd.read_csv('assets/cons.csv')
 df.to_sql('cons', conn, index=False)
 
-df = pd.read_csv('stars.csv')
+df = pd.read_csv('assets/stars.csv')
 df.to_sql('stars', conn, index=False)
 
 

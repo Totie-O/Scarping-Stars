@@ -39,10 +39,10 @@ class Star:
     __repr__ =  __str__
 
 
-print(Star('Vega'))
-print(Star('天狼'))
-print(Star('天狼'))
-print(Star('Arcturus'))
-print(Star('蝴蝶'))
+# print(Star('Vega'))
+# print(Star('天狼'))
+# print(Star('天狼'))
+# print(Star('Arcturus'))
+# print(Star('蝴蝶'))
 
-print(Star('织女'))
+# print(Star('织女'))
